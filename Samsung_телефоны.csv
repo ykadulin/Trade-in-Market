@@ -1,26 +1,26 @@
 ﻿Модель,Закупочная цена
 Samsung Galaxy Z Fold 7 12/512GB (F966B) Duos,61449
 Samsung Galaxy Z Fold 7 12/256GB (F966B) Duos,58549
-Samsung Galaxy Z Fold 6 12/256GB (F956B) Duos,49649
-Samsung Galaxy Z Fold 6 12/256GB (F956N) Duos,49649
-Samsung Galaxy S25 Ultra 12/512GB (S938B) Duos,46699
+Samsung Galaxy S25 Ultra 12/512GB (S938B) Duos,48149
+Samsung Galaxy Z Fold 6 12/256GB (F956B) Duos,48149
+Samsung Galaxy Z Fold 6 12/256GB (F956N) Duos,48149
 Samsung Galaxy Z Fold 5 12/1TB (F946B) Duos,45199
+Samsung Galaxy S25+ 12/512GB (S936B) Duos,43749
 Samsung Galaxy S23 Ultra 12/1TB (S918B) Duos,42249
-Samsung Galaxy S25 12/512GB (S931B) Duos,40749
 Samsung Galaxy S25 Ultra 12/256GB (S938B) Duos,39299
 Samsung Galaxy S24 Ultra 12/256GB (S928B) Duos,37749
 Samsung Galaxy S24 Ultra 12/512GB (S928B) Duos,37749
-Samsung Galaxy S24+ 12/512GB (S926B) Duos,34799
 Samsung Galaxy Z Flip 7 12/512GB (F766B) Duos,34799
-Samsung Galaxy S25 12/128GB (S931B) Duos,33299
-Samsung Galaxy S25 12/256GB (S931B) Duos,33299
+Samsung Galaxy Z Flip 6 12/512GB (F741B) Duos,33299
 Samsung Galaxy Z Fold 5 12/256GB (F946B) Duos,31849
-Samsung Galaxy S23 Ultra 12/256GB (S918B) Duos,25850
-Samsung Galaxy S23 Ultra 12/512GB (S918B) Duos,25850
-Samsung Galaxy S23 Ultra 12/512GB (S918N) Duos,25850
-Samsung Galaxy S23 Ultra 8/256GB (S918B) Duos,24400
+Samsung Galaxy S25 12/128GB (S931B) Duos,30349
+Samsung Galaxy S25 12/256GB (S931B) Duos,30349
 Samsung Galaxy S24 FE 8/512GB (S721B) Duos,24400
 Samsung Galaxy S22 Ultra 12/512GB (S908E) Duos,23100
+Samsung Galaxy S23 Ultra 12/256GB (S918B) Duos,23100
+Samsung Galaxy S23 Ultra 12/512GB (S918B) Duos,23100
+Samsung Galaxy S23 Ultra 12/512GB (S918N) Duos,23100
+Samsung Galaxy S23 Ultra 8/256GB (S918B) Duos,23100
 Samsung Galaxy S23+ 8/512GB (S916N) Duos,23100
 Samsung Galaxy S22 Ultra 12/256GB (S908E) Duos,21450
 Samsung Galaxy S22 Ultra 12/512GB (S908B) Duos,21450
@@ -33,31 +33,32 @@ Samsung Galaxy S24 8/128GB (S921B) Duos,17650
 Samsung Galaxy S24 FE 8/256GB (S721B) Duos,17650
 Samsung Galaxy S21 Ultra 5G 12/256GB (G998B) Duos,16200
 Samsung Galaxy S21 Ultra 5G 12/256GB (G998N),16200
-Samsung Galaxy S22+ 8/256GB (S906B) Duos,16200
-Samsung Galaxy A56 8/256GB (A566B) Duos,15700
-Samsung Galaxy A56 8/256GB (A566E) Duos,15700
 Samsung Galaxy Note 20 Ultra 5G 12/256GB (N9860) Duos,15700
 Samsung Galaxy Note 20 Ultra 5G 12/256GB (N986B) Duos,15700
 Samsung Galaxy Note 20 Ultra 8/256GB (N985F) Duos,15700
-Samsung Galaxy S23 FE 8/256GB (S711B) Duos,15700
-Samsung Galaxy S22+ 8/128GB (S906B) Duos,14900
-Samsung Galaxy S22+ 8/128GB (S906E) Duos,14900
+Samsung Galaxy S22+ 8/256GB (S906B) Duos,15700
+Samsung Galaxy A56 8/256GB (A566B) Duos,14450
+Samsung Galaxy A56 8/256GB (A566E) Duos,14450
 Samsung Galaxy Note 10+ 12/256GB (N975F) Duos,14450
-Samsung Galaxy S22 8/128GB (S901E) Duos,14450
-Samsung Galaxy S23 FE 8/128GB (S711B) Duos,14450
+Samsung Galaxy A56 8/128GB (A566B) Duos,13950
 Samsung Galaxy S20 Ultra 12/128GB (G988B) Duos,13950
 Samsung Galaxy S21 5G 8/256GB (G9910) Duos,13950
 Samsung Galaxy S21+ 5G 8/128GB (G996B) Duos,13950
 Samsung Galaxy S22 8/256GB (S901B) Duos,13950
+Samsung Galaxy S22+ 8/128GB (S906B) Duos,13950
+Samsung Galaxy S22+ 8/128GB (S906E) Duos,13950
+Samsung Galaxy S23 FE 8/128GB (S711B) Duos,13950
 Samsung Galaxy Note 10+ 5G 12/256GB (N976N),13250
+Samsung Galaxy S22 8/128GB (S901E) Duos,13250
 Samsung Galaxy Note 10 5G 12/256GB (N971N),12700
-Samsung Galaxy S21 5G 8/128GB (G9910) Duos,12700
 Samsung Galaxy Z Flip 3 5G 8/256GB (F711B),12700
+Samsung Galaxy M53 8/256GB (M536B) Duos,12200
 Samsung Galaxy S10 5G 8/512GB (G977N),12200
 Samsung Galaxy S21+ 5G 8/256GB (G996B) Duos,12200
 Samsung Galaxy S22 8/128GB (S901B) Duos,12200
+Samsung Galaxy Z Flip 3 5G 8/128GB (F711B) Duos,12200
+Samsung Galaxy S21 5G 8/128GB (G9910) Duos,11950
 Samsung Galaxy S21+ 5G 8/256GB (G996N),11950
-Samsung Galaxy Z Flip 3 5G 8/128GB (F711B) Duos,11950
 Samsung Galaxy S10+ 8/512GB (G975N),11450
 Samsung Galaxy A73 8/256GB (A736B) Duos,10900
 Samsung Galaxy S20 5G 12/128GB (SCG01) Duos,10900
@@ -65,46 +66,52 @@ Samsung Galaxy S21 5G 8/128GB (G991B) Duos,10900
 Samsung Galaxy S21 5G 8/256GB (G991B) Duos,10900
 Samsung Galaxy S21 5G 8/256GB (G991N),10900
 Samsung Galaxy A36 8/256GB (A366E) Duos,10400
-Samsung Galaxy A55 8/128GB (A556E) Duos,10400
 Samsung Galaxy A55 8/256GB (A556E) Duos,10400
+Samsung Galaxy S20+ 8/128GB (G985F) Duos,10400
 Samsung Galaxy A36 8/128GB (A366B) Duos,9850
-Samsung Galaxy S10+ 8/128GB (G975F) Duos,9850
+Samsung Galaxy A36 8/128GB (A366E) Duos,9850
+Samsung Galaxy M55 8/256GB (M556E) Duos,9850
+Samsung Galaxy Note 9 8/512GB (N960F) Duos,9850
 Samsung Galaxy S20 8/128GB (G980F) Duos,9850
+Samsung Galaxy S20 8/128GB (G980FD) Duos,9850
+Samsung Galaxy A54 5G 8/256GB (A5460) Duos,9600
 Samsung Galaxy Note 9 8/512GB (N960N),9600
 Samsung Galaxy S21 FE 5G 6/128GB (G990B) Duos,9600
 Samsung Galaxy S21 FE 5G 6/128GB (G990B2) Duos,9600
 Samsung Galaxy S10 8/128GB (G9730) Duos,9050
 Samsung Galaxy Note 8 6/128GB (N9500) Duos,8550
 Samsung Galaxy Note 9 6/128GB (N960F) Duos,8550
-Samsung Galaxy A54 5G 6/128GB (A546E) Duos,8200
+Samsung Galaxy S9+ 6/256GB (G965F) Duos,8550
 Samsung Galaxy A73 6/128GB (A736B) Duos,8200
 Samsung Galaxy S10 Lite 6/128GB (G770F) Duos,8200
 Samsung Galaxy S10 Lite 8/128GB (G770F) Duos,8200
-Samsung Galaxy A52s 5G 8/256GB (A528B) Duos,7550
+Samsung Galaxy A54 5G 6/128GB (A546E) Duos,7550
 Samsung Galaxy Note 9 6/128GB (N960N),7550
+Samsung Galaxy A25 8/256GB (A256B) Duos,7200
+Samsung Galaxy A26 5G 8/256GB (A266B) Duos,7200
 Samsung Galaxy A34 8/256GB (A346E) Duos,7200
 Samsung Galaxy A53 5G 8/256GB (A536E) Duos,7200
-Samsung Galaxy S10 8/128GB (G973F) Duos,7200
-Samsung Galaxy A25 6/128GB (A256E) Duos,6750
-Samsung Galaxy A26 5G 8/256GB (A266B) Duos,6750
-Samsung Galaxy A34 6/128GB (A346E) Duos,6750
-Samsung Galaxy A34 8/128GB (A346E) Duos,6750
 Samsung Galaxy A52 8/256GB (A525F) Duos,6750
+Samsung Galaxy A53 5G 6/128GB (A536E) Duos,6750
+Samsung Galaxy A72 8/256GB (A725F) Duos,6750
 Samsung Galaxy M52 5G 6/128GB (M526B) Duos,6750
+Samsung Galaxy S10 8/128GB (G973F) Duos,6750
 Samsung Galaxy S20 FE 6/128GB (G780F) Duos,6750
-Samsung Galaxy A53 5G 6/128GB (A536E) Duos,6400
+Samsung Galaxy A25 6/128GB (A256E) Duos,6400
+Samsung Galaxy A34 6/128GB (A346E) Duos,6400
+Samsung Galaxy A34 8/128GB (A346E) Duos,6400
 Samsung Galaxy Note 8 6/64GB (N950F) Duos,6400
+Samsung Galaxy S20 FE 6/128GB (G780G) Duos,6400
 Samsung Galaxy S8+ 6/128GB (G955FD) Duos,6400
 Samsung Galaxy S9+ 6/64GB (G965F) Duos,6400
-Samsung Galaxy S20 FE 6/128GB (G780G) Duos,6050
-Samsung Galaxy S20 FE 8/128GB (G780G) Duos,6050
-Samsung Galaxy A15 6/128GB (A155F) Duos,5700
-Samsung Galaxy M16 6/128GB (M166P) Duos,5700
+Samsung Galaxy A71 5G 8/128GB (A716S),6050
+Samsung Galaxy A15 6/128GB (A155F) Duos,5300
 Samsung Galaxy A15 8/256GB (A155F) Duos,5300
 Samsung Galaxy A16 8/256GB (A165F) Duos,5300
 Samsung Galaxy A17 6/128GB (A175F) Duos,5300
 Samsung Galaxy A17 8/256GB (A175F) Duos,5300
-Samsung Galaxy A33 5G 6/128GB (A336B) Duos,4950
+Samsung Galaxy A33 5G 6/128GB (A336B) Duos,5300
+Samsung Galaxy A33 5G 6/128GB (A336E) Duos,5300
 Samsung Galaxy A32 6/128GB (A325F) Duos,4700
 Samsung Galaxy A52 4/128GB (A525F) Duos,4700
 Samsung Galaxy A70 2019 6/128GB (A705F/FN) Duos,4700
@@ -112,28 +119,27 @@ Samsung Galaxy A71 6/128GB (A715F) Duos,4700
 Samsung Galaxy A72 6/128GB (A725F) Duos,4700
 Samsung Galaxy A9 2018 6/128GB (A920F) Duos,4700
 Samsung Galaxy M31s 6/128GB (M317F) Duos,4700
-Samsung Galaxy M32 6/128GB (M325F) Duos,4700
-Samsung Galaxy M32 6/128GB (M325FV) Duos,4700
 Samsung Galaxy S10e 6/128GB (G970F) Duos,4700
 Samsung Galaxy S9 4/64GB (G960F) Duos,4700
 Samsung Galaxy A05 4/128GB (A055F) Duos,4300
-Samsung Galaxy A14 6/128GB (A145P) Duos,4300
 Samsung Galaxy A15 4/128GB (A155F) Duos,4300
 Samsung Galaxy A16 4/128GB (A165F) Duos,4300
-Samsung Galaxy A23 6/128GB (A235F) Duos,4300
-Samsung Galaxy A51 6/128GB (A515F) Duos,4300
+Samsung Galaxy A17 4/128GB (A175F) Duos,4300
+Samsung Galaxy A23 4/128GB (A235F) Duos,4300
 Samsung Galaxy M31 6/128GB (M315F) Duos,4300
+Samsung Galaxy M32 6/128GB (M325F) Duos,4300
+Samsung Galaxy M32 6/128GB (M325FV) Duos,4300
 Samsung Galaxy S7 Edge 4/32GB (G935FD) Duos,4300
 Samsung Galaxy S8 4/64GB (G950FD) Duos,4300
-Samsung Galaxy S8+ 4/64GB (G955FD) Duos,4300
-Samsung Galaxy A05s 4/128GB (A057F) Duos,4000
 Samsung Galaxy A06 4/128GB (A065F) Duos,4000
 Samsung Galaxy A06 6/128GB (A065F) Duos,4000
 Samsung Galaxy A14 4/128GB (A145F) Duos,4000
 Samsung Galaxy A14 6/128GB (A145F) Duos,4000
+Samsung Galaxy A14 6/128GB (A145P) Duos,4000
 Samsung Galaxy A31 4/128GB (A315F) Duos,4000
 Samsung Galaxy A32 4/128GB (A325F) Duos,4000
 Samsung Galaxy A50 2019 6/128GB (A505FM) Duos,4000
+Samsung Galaxy A51 6/128GB (A515F) Duos,4000
 Samsung Galaxy M22 4/128GB (M225FV) Duos,4000
 Samsung Galaxy Note 5 4/64GB (N920K),4000
 Samsung Galaxy S8 4/64GB (G950N),4000
@@ -141,136 +147,113 @@ Samsung Galaxy S9 4/64GB (G960N),4000
 Samsung Galaxy A22 4G 4/128GB (A225F) Duos,3700
 Samsung Galaxy A22/s 5G 4/128GB (A226B) Duos,3700
 Samsung Galaxy A23 4/64GB (A235F) Duos,3700
-Samsung Galaxy A12 4/128GB (A125F) Duos,3400
 Samsung Galaxy A12 4/128GB (A127F) Duos,3400
 Samsung Galaxy A51 4/64GB (A515F) Duos,3400
 Samsung Galaxy A05 4/64GB (A055F) Duos,3100
 Samsung Galaxy A06 4/64GB (A065F) Duos,3100
-Samsung Galaxy A22 4G 4/64GB (A225F) Duos,3100
 Samsung Galaxy A22/s 5G 4/64GB (A226B) Duos,3100
-Samsung Galaxy A32 4/64GB (A325F) Duos,3100
 Samsung Galaxy A41 4/64GB (A415F) Duos,3100
-Samsung Galaxy Note 4 3/32GB (N910H),3100
+Samsung Galaxy S6 3/64GB (G920F),3100
 Samsung Galaxy S6 3/64GB (G920S),3100
+Samsung Galaxy S7 4/64GB (G930S),3100
 Samsung Galaxy A04 4/64GB (A045F) Duos,2850
+Samsung Galaxy A13 4/64GB (A137F) Duos,2850
+Samsung Galaxy A14 4/64GB (A145F) Duos,2850
 Samsung Galaxy A14 4/64GB (A145P) Duos,2850
+Samsung Galaxy A21s 3/32GB (A217F) Duos,2850
+Samsung Galaxy A21s 4/64GB (A217F) Duos,2850
+Samsung Galaxy A22 4G 4/64GB (A225F) Duos,2850
+Samsung Galaxy A30s 4/64GB (A307FN) Duos,2850
 Samsung Galaxy A31 4/64GB (A315F) Duos,2850
+Samsung Galaxy A32 4/64GB (A325F) Duos,2850
 Samsung Galaxy A50 2019 4/64GB (A505FN) Duos,2850
 Samsung Galaxy M21 4/64GB (M215F) Duos,2850
+Samsung Galaxy Note 4 3/32GB (N910H),2850
 Samsung Galaxy A12 4/64GB (A125F) Duos,2550
 Samsung Galaxy A12 4/64GB (A127F) Duos,2550
 Samsung Galaxy A13 3/32GB (A135F) Duos,2550
-Samsung Galaxy A30s 4/64GB (A307FN) Duos,2550
+Samsung Galaxy A30 4/64GB (A305F/FN) Duos,2550
 Samsung Galaxy A40 2019 4/64GB (A405FM) Duos,2550
 Samsung Galaxy A7 2018 4/64GB (A750FN) Duos,2550
 Samsung Galaxy M12 4/64GB (M127F) Duos,2550
 Samsung Galaxy A03 4/64GB (A035F) Duos,2400
 Samsung Galaxy A03s 4/64GB (A037F) Duos,2400
-Samsung Galaxy A04s 4/64GB (A047F) Duos,2400
 Samsung Galaxy A30 3/32GB (A305F/A305FN) Duos,2400
 Samsung Galaxy A30s 3/32GB (A307FN) Duos,2400
 Samsung Galaxy A8+ 4/32GB (A730F) Duos,2400
 Samsung Galaxy A6+ 3/32GB (A605FN) Duos,2250
 Samsung Galaxy M12 3/32GB (M127F) Duos,2250
+Samsung Galaxy A04s 3/32GB (A047F) Duos,2100
 Samsung Galaxy A8 4/32GB (A530F) Duos,2100
 Samsung Galaxy S6 3/32GB (G920S),2100
 Samsung Galaxy S6 Edge 3/32GB (G925K),2100
+Samsung Galaxy A20 3/32GB (A205FN) Duos,1950
+Samsung Galaxy A02s 3/32GB (A025F) Duos,1800
 Samsung Galaxy A12 3/32GB (A125F) Duos,1800
 Samsung Galaxy A12 3/32GB (A127F) Duos,1800
-Samsung Galaxy A20 3/32GB (A205FN) Duos,1800
 Samsung Galaxy A20s 3/32GB (A207F) Duos,1800
-Samsung Galaxy A6 2018 3/32GB (A600FN) Duos,1800
-Samsung Galaxy J8 2018 3/32GB (J810F) Duos,1800
 Samsung Galaxy M11 (M115F) Duos,1800
 Samsung Galaxy A5 2017 3/32GB (A520F) Duos,1650
-Samsung Galaxy J6 2018 3/32GB (J600F) Duos,1650
+Samsung Galaxy A6 2018 3/32GB (A600FN) Duos,1650
 Samsung Galaxy J6+ 3/32GB (J610FN) Duos,1650
-Samsung Galaxy A02 2/32GB (A022G) Duos,1550
 Samsung Galaxy A04e 3/32GB (A042F) Duos,1550
 Samsung Galaxy A11 2/32GB (A115F) Duos,1550
+Samsung Galaxy A3 2017 (A320F) Duos,1550
 Samsung Galaxy A7 2016 (A710L),1550
 Samsung Galaxy J4+ 3/32GB (J415FN) Duos,1550
-Samsung Galaxy Note 4 3/32GB (N910C),1550
+Samsung Galaxy M01 (M015F) Duos,1550
 Samsung Galaxy Note 4 3/32GB (N916S),1550
+Samsung Galaxy A02 2/32GB (A022G) Duos,1400
 Samsung Galaxy A10 2019 2/32GB (A105F) Duos,1400
-Samsung Galaxy A3 2017 (A320F) Duos,1400
-Samsung Galaxy A5 2016 2/16GB (A510F) Duos,1400
 Samsung Galaxy J5 2017 2/16GB (J530FM) Duos,1400
 Samsung Galaxy S4 (E300S),1400
 Samsung Galaxy S5 2/16GB (G900FD) Duos,1400
 Samsung Galaxy A01 (A015F/DS) Duos,1250
 Samsung Galaxy A03 Core 2/32GB (A032F) Duos,1250
+Samsung Galaxy A5 2016 2/16GB (A510F) Duos,1250
 Samsung Galaxy J4 2018 3/32GB (J400F) Duos,1250
 Samsung Galaxy J7 2016 2/16GB (J710FN) Duos,1250
+Samsung Galaxy Note 3 3/32GB (N900),1250
 Samsung Galaxy Note 3 3/32GB (N900S),1250
 Samsung Galaxy J4+ 2/16GB (J415FN) Duos,1100
 Samsung Galaxy Note 3 3/32GB (N9005),1100
 Samsung Galaxy Mega 5.8 (i9152) Duos,900
 Samsung Galaxy S4 (i9505),900
-Samsung Galaxy S5 2/16GB (G900F),900
-Samsung Galaxy A3 2016 (A310F) Duos,850
-Samsung Galaxy A5 (A500F) Duos,850
-Samsung Galaxy J3 2017 (J330F) Duos,850
-Samsung Galaxy J5 2016 (J510FN) Duos,850
-Samsung Galaxy J5 Prime 2/16GB (G570F) Duos,850
 Samsung Galaxy A01 Core 16GB (A013F/DS) Duos,700
-Samsung Galaxy J2 2018 (J250F) Duos,700
-Samsung Galaxy J2 Core 2020 (J260FU) Duos,700
-Samsung Galaxy S3 (i9300I) Duos,700
-Samsung Galaxy S5 mini (G800H) Duos,700
+Samsung Galaxy J3 2016 (J320F) Duos,700
 Samsung Galaxy A3 (A300F) Duos,550
-Samsung Galaxy J3 2016 (J320F) Duos,550
-Samsung Galaxy S3 Neo (I9301I),500
-Samsung C3592 Duos,350
+Samsung Galaxy A3 2016 (A310F) Duos,550
+Samsung Galaxy A5 (A500F) Duos,550
+Samsung Galaxy J2 2018 (J250F) Duos,550
+Samsung Galaxy J2 Core 2020 (J260FU) Duos,550
+Samsung Galaxy J3 2017 (J330F) Duos,550
+Samsung Galaxy J5 2016 (J510FN) Duos,550
+Samsung Galaxy J5 Prime 2/16GB (G570F) Duos,550
+Samsung Galaxy S3 (i9300I) Duos,550
+Samsung Galaxy S3 Neo (I9301I),550
+Samsung Galaxy S5 mini (G800H) Duos,550
+Samsung Galaxy J2 Core 8GB (J260F) Duos,450
+Samsung Galaxy J2 Prime (G532F) Duos,450
 Samsung Galaxy Ace 3 (S7270),350
 Samsung Galaxy Ace 4 (G313HU) Duos,350
 Samsung Galaxy Ace 4 Neo (G318H) Duos,350
 Samsung Galaxy Ace La Fleur (S5830I),350
-Samsung Galaxy Ace Plus (S7500),350
 Samsung Galaxy Ace Style LTE (G357FZ),350
 Samsung Galaxy Core 2 (G355H) Duos,350
-Samsung Galaxy Core Prime (G360H) Duos,350
 Samsung Galaxy Grand Neo (i9060) Duos,350
-Samsung Galaxy Grand Prime VE (G531F),350
 Samsung Galaxy Grand Prime VE (G531H) Duos,350
-Samsung Galaxy J2 Prime (G532F) Duos,350
 Samsung Galaxy Pocket (S5300),350
 Samsung Galaxy S (S7562) Duos,350
-Samsung Galaxy S Advance (i9070),350
-Samsung Galaxy S scLCD (i9003),350
 Samsung Galaxy S2 Plus (i9105),350
 Samsung Galaxy S4 mini (i9192) Duos,350
-Samsung Galaxy Win (i8552) Duos,350
-Samsung Galaxy Y (S5360),350
-Samsung L700,350
-Samsung U800,350
-Samsung Wave 723 (S7230),350
-Samsung Wave M (S7250D),350
 Samsung Wave Y (S5380D),350
-Samsung C160,250
+Samsung C5212 Duos с СЗУ,250
 Samsung D780 Duos,250
 Samsung Galaxy Ace (S6802) Duos,250
-Samsung Galaxy Grand (i9082) Duos,250
-Samsung Galaxy J1 (J110H) Duos,250
 Samsung Galaxy J1 2016 (J120F) Duos,250
 Samsung Galaxy J1 Mini (J105H) Duos,250
 Samsung Galaxy J1 Mini Prime 2016 (J106F) Duos,250
 Samsung Galaxy Mini (S5570),250
-Samsung Galaxy Star Advance (G350E) Duos,250
-Samsung Galaxy Star Plus (S7262) Duos,250
-Samsung Galaxy Y (S6102) Duos,250
-Samsung J700,250
-Samsung S3600i,250
 Samsung Star (S5230),250
-Samsung Star 2 (S5260),250
 Samsung Wave 525 (S5250),250
-Samsung E2210,200
-Samsung C200N,1
-Samsung E1080,1
-Samsung E1080i,1
-Samsung E1200,1
-Samsung X120,1
-Samsung X160,1
-Samsung X450,1
-Samsung X460,1
-Samsung X480,1
+Samsung Galaxy S23+ 8/512GB (S916B) Duos,Не доступно
